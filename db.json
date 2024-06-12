@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Audrey II",
+      "image": "https://vignette.wikia.nocookie.net/warehouse-13-artifact-database/images/c/c2/Shop_of_horrors.jpg/revision/latest?cb=20190618141718",
+      "price": "1.95",
+      "id": 8
+    },
+    {
+      "name": "Audrey II",
+      "image": "https://vignette.wikia.nocookie.net/warehouse-13-artifact-database/images/c/c2/Shop_of_horrors.jpg/revision/latest?cb=20190618141718",
+      "price": "1.95",
+      "id": 9
+    },
+    {
+      "name": "Audrey II",
+      "image": "https://vignette.wikia.nocookie.net/warehouse-13-artifact-database/images/c/c2/Shop_of_horrors.jpg/revision/latest?cb=20190618141718",
+      "price": "1.95",
+      "id": 10
+    },
+    {
+      "name": "A Plant",
+      "image": "http://localhost:3000/images/zz-plant.jpg",
+      "price": "0.06",
+      "id": 11
     }
   ]
 }
